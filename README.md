@@ -28,5 +28,6 @@ python3 record.py
 
 5. Decode the video and play it on LED panel
 
-$ bash decode-and-play.sh
-
+```bash
+bash decode-and-play.sh
+```
